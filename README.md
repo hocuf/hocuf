@@ -1,4 +1,6 @@
 # 💫 Abdulllah Fatih Höcü:
-🔭 I’m currently working on React Native Mobile Development<br>👯 I’m using Javascript, React Native<br>🌱 I’m currently learning TypeScript
+🔭 I’m currently working on Artifical Intelligence<br>
+👯 I’m using Python, and React Native<br>
+🌱 I’m currently learning Generative Ai
 
 
